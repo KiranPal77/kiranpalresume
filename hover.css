@@ -1,0 +1,46 @@
+.lux:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 2px 3px 0 rgb(66, 66, 66), 0 2px 8px 0 rgb(70, 70, 70);
+    transition: transform 1s;
+}
+
+.childedu:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 2px 4px 0 rgba(245, 245, 245, 0.699), 0 2px 10px 0 rgba(245, 245, 245, 0.699);
+    transition: transform 1s;
+}
+
+       
+
+.up:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    box-shadow: 0 7px 9px 0 rgba(8, 207, 41, 0.2), 0 6px 20px 0 rgba(10, 231, 58, 0.19);
+    transition: transform 1s;
+
+}
+
+.projectimg img:hover{
+    transform: scale(1.2);
+    transition: transform 1s;
+    border-color: green;
+}
+
+.nav2 a:hover{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    color: rgb(12, 187, 12);
+    
+}
+.nav1 a:hover{
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    color: rgb(12, 187, 12);
+}
